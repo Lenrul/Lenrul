@@ -1,5 +1,5 @@
 ### Making Horrendous Projects Since 2019
-and a brand new account to replace my old account
+Hi I'm Len.
 
 <!--
 **Lenrul/Lenrul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
